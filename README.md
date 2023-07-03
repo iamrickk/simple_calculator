@@ -1,6 +1,28 @@
 # calculator_pr
 
-A new Flutter project.
+A simple Calculator app made using flutter.
+
+It has:
+ * Splash Screen
+ * Options to switch between the light theme and dark them.
+
+Preview:
+
+DarkTheme:
+
+
+![dark](https://github.com/iamrickk/simple_calculator/assets/107041506/1ea12bab-2ed6-4455-bce9-9c98b82b3160)
+
+LightThem:
+
+
+![light](https://github.com/iamrickk/simple_calculator/assets/107041506/48d9227f-e6ed-44c0-b89a-b396e82ffea6)
+
+Splash Screen:
+
+![Screenshot 2023-07-03 220123](https://github.com/iamrickk/simple_calculator/assets/107041506/92473edd-356a-4d2e-b30e-5e1a3594dd5b)
+
+
 
 ## Getting Started
 
